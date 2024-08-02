@@ -1,7 +1,0 @@
-MANIFEST.in
-setup.py
-flask_todo_01.egg-info/PKG-INFO
-flask_todo_01.egg-info/SOURCES.txt
-flask_todo_01.egg-info/dependency_links.txt
-flask_todo_01.egg-info/requires.txt
-flask_todo_01.egg-info/top_level.txt
